@@ -1,0 +1,20 @@
+title: Alex Davidovich
+email: alex@davidovi.ch
+timezone: Europe/Minsk
+
+
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+url: "https://davidovi.ch"
+twitter_username: alxsad
+github_username:  alxsad
+
+markdown: kramdown
+theme: minima
+google_site_verification: d02Z9J5UC1YzICiXxqZqiz4AdH-E3SKJdWCujsiycTE
+
+gems:
+   - jekyll-seo-tag
