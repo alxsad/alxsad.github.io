@@ -1,0 +1,4 @@
+baseURL = 'https://davidovi.ch'
+languageCode = 'en-us'
+title = 'Alex Davidovich - CV'
+theme = 'simple-cv'

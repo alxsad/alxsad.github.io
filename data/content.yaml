@@ -1,0 +1,125 @@
+Dir: ltr
+
+BasicInfo:
+  FirstName: Alex
+  LastName: Davidovich
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: alxsad@gmail.com
+      Link: false
+    - Icon: fas fa-map-marker-alt
+      Info: Minsk, Belarus
+      Link: false 
+    - Icon: fab fa-linkedin-in
+      Info: linkedin.com/in/alxsad
+      Link: true
+    - Icon: fab fa-github
+      Info: github.com/alxsad
+      Link: true
+
+Education:
+  - Degree: Software Engineer
+    FieldOfStudy: Information systems and technologies
+    NameofSchool: Belarusian State University of Informatics and Radioelectronics
+    Location: Minsk, Belarus
+    Date: Sep 2007 - Jun 2011
+
+Profile: Hi, my name is Alex and I'm senior software engineer. I have strong experience in backend development. As well as backend development I also have some experience making architecture solutions. Team player. Highly adaptable. Rapid learner.
+
+Personal:
+  - Gender: Male
+    BirthDate: 29.03.1987
+
+Skills:
+ - PHP | Golang | JavaScript
+ - Linux | Bash
+ - Containers | Docker | Kubernetes
+ - DevOps | CI/CD | Ansible
+ - React Native | WebRTC
+ - MySQL | PostgreSQL | Mongo
+ - Redis | ETCD
+ - HTML | CSS
+ - Git | AWS
+ - Raspberry Pi
+
+Experience:
+  - Employer: Gmartikun
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Architect)
+        Date: Oct 2019 - Present
+        Details:
+          - Technical researches
+          - Architecture design
+          - Technical documentation
+          - Infrastructure maintenance
+          - Software development
+        Badges: ['Linux', 'Golang', 'Raspberry Pi', 'Java', 'Spring Boot', 'ReactJS', 'React Native', 'AWS', 'Centrifugo', 'WebRTC', 'Docker', 'Ansible']
+
+  - Employer: FinteqHub
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Backend)
+        Date: Dec 2020 - Aug 2022
+        Details:
+          - Payment integrations
+          - Microservices development
+          - REST APIs design and implementation
+          - Unit tests
+        Badges: ['Golang', 'Kubernetes', 'PostgreSQL', 'ClickHouse', 'etcd', 'Microservices', 'Sagas', 'Docker']
+
+  - Employer: Viber Media, Inc.
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Backend)
+        Date: Dec 2014 - Jul 2019
+        Details:
+          - Software development
+          - Team leading experience
+          - REST APIs design and implementation
+          - DevOps activities
+          - Unit and integration tests
+        Badges: ['PHP', 'Symfony', 'Doctrine ORM', 'MySQL', 'AWS', 'Docker']
+ 
+  - Employer: Intellectsoft
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Backend)
+        Date: Oct 2013 - Dec 2014
+        Details:
+          - REST APIs design and implementation
+          - Software development
+          - Unit and integration tests
+        Badges: ['Angular', 'PHP', 'JavaScript', 'Symfony', 'MySQL', 'MongoDB'] 
+  
+  - Employer: EffectiveSoft
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Full-stack)
+        Date: Oct 2012 - Oct 2013
+        Details:
+          - Website development
+        Badges: ['PHP', 'JavaScript', 'MySQL', 'ExtJS']
+  
+  - Employer: USWebStyle
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Full-stack)
+        Date: Jan 2008 - Aug 2012
+        Details:
+          - Develop websites using php stack
+          - Partipicated in development of corporate php framework based on zend framework
+          - Implemented ActiveCollab plugins
+          - Made up websites using PSD templates
+          - Help mentor and grow engineers
+        Badges: ['PHP', 'Zend Framework', 'JavaScript', 'HTML', 'CSS', 'MySQL']
+
+  - Employer: Net-Systems
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Software Engineer (Full-stack)
+        Date: Sep 2007 - Jan 2008
+        Details:
+          - Develop small sites
+        Badges: ['PHP', 'JavaScript', 'HTML', 'CSS']
