@@ -32,22 +32,22 @@ Personal:
     BirthDate: 29.03.1987
 
 Skills:
- - PHP | Golang | JavaScript
- - Linux | Bash
- - Containers | Docker | Kubernetes
- - DevOps | CI/CD | Ansible
- - React Native | WebRTC
- - MySQL | PostgreSQL | Mongo
- - Redis | ETCD
- - HTML | CSS
- - Git | AWS
- - Raspberry Pi
+  - PHP | Golang | JavaScript
+  - Linux | Bash | Git
+  - Containers | Docker | Kubernetes | AWS
+  - DevOps | CI/CD | Ansible
+  - React Native | WebRTC
+  - MySQL | PostgreSQL | Mongo
+  - Redis | ETCD
+  - HTML | CSS
+  - Kafka | Centrifugo
+  - Raspberry Pi
 
 Experience:
   - Employer: Gmartikun
     Place: Belarus, Minsk
     Positions:
-      - Title: Software Engineer (Architect)
+      - Title: Software Engineer (Head of development)
         Date: Oct 2019 - Present
         Details:
           - Technical researches
@@ -60,13 +60,14 @@ Experience:
   - Employer: FinteqHub
     Place: Belarus, Minsk
     Positions:
-      - Title: Software Engineer (Backend)
-        Date: Dec 2020 - Aug 2022, Mar 2023 - Present
+      - Title: Software Engineer (Backend / Lead)
+        Date: Dec 2020 - Present
         Details:
           - Payment integrations
           - Microservices development
           - REST APIs design and implementation
           - Unit tests
+          - Lead of financial monitoring team
         Badges: ['Golang', 'Kubernetes', 'PostgreSQL', 'ClickHouse', 'etcd', 'Microservices', 'Sagas', 'Docker']
 
   - Employer: Viber Media, Inc.
@@ -81,7 +82,7 @@ Experience:
           - DevOps activities
           - Unit and integration tests
         Badges: ['PHP', 'Symfony', 'Doctrine ORM', 'MySQL', 'AWS', 'Docker']
- 
+
   - Employer: Intellectsoft
     Place: Belarus, Minsk
     Positions:
