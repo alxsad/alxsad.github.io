@@ -1,4 +1,7 @@
 baseURL = 'https://davidovi.ch'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Alex Davidovich - CV'
 theme = 'simple-cv'
+
+# One-page CV: no posts, tags, categories, RSS feed or sitemap.
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]

@@ -10,7 +10,7 @@ BasicInfo:
       Link: false
     - Icon: fas fa-map-marker-alt
       Info: Minsk, Belarus
-      Link: false 
+      Link: false
     - Icon: fab fa-linkedin-in
       Info: linkedin.com/in/alxsad
       Link: true
@@ -37,26 +37,13 @@ Skills:
   - Containers | Docker | Kubernetes | AWS
   - DevOps | CI/CD | Ansible
   - React Native | WebRTC
-  - MySQL | PostgreSQL | Mongo
+  - MySQL | PostgreSQL | Mongo | ClickHouse
   - Redis | ETCD
   - HTML | CSS
   - Kafka | Centrifugo
   - Raspberry Pi
 
 Experience:
-  - Employer: Gmartikun
-    Place: Belarus, Minsk
-    Positions:
-      - Title: Software Engineer (Head of development)
-        Date: Oct 2019 - Present
-        Details:
-          - Technical researches
-          - Architecture design
-          - Technical documentation
-          - Infrastructure maintenance
-          - Software development
-        Badges: ['Linux', 'Golang', 'Raspberry Pi', 'Java', 'Spring Boot', 'ReactJS', 'React Native', 'AWS', 'Centrifugo', 'WebRTC', 'Docker', 'Ansible']
-
   - Employer: FinteqHub
     Place: Belarus, Minsk
     Positions:
@@ -68,7 +55,20 @@ Experience:
           - REST APIs design and implementation
           - Unit tests
           - Lead of financial monitoring team
-        Badges: ['Golang', 'Kubernetes', 'PostgreSQL', 'ClickHouse', 'etcd', 'Microservices', 'Sagas', 'Docker']
+        Badges: ['Golang', 'Kubernetes', 'PostgreSQL', 'ClickHouse', 'etcd', 'redis', 'Sagas', 'Docker', 'Grafana', 'Jaeger', 'Prometheus', 'Kafka', 'Sentry', 'ELK', 'ArgoCD']
+
+  - Employer: Gmartikun
+    Place: Belarus, Minsk
+    Positions:
+      - Title: Head of development
+        Date: Jul 2019 - Dec 2020
+        Details:
+          - Technical researches
+          - Architecture design
+          - Technical documentation
+          - Infrastructure maintenance
+          - Software development
+        Badges: ['Linux', 'Golang', 'Raspberry Pi', 'Java', 'Spring Boot', 'ReactJS', 'React Native', 'AWS', 'Centrifugo', 'WebRTC', 'Docker', 'Ansible']
 
   - Employer: Viber Media, Inc.
     Place: Belarus, Minsk
@@ -92,8 +92,8 @@ Experience:
           - REST APIs design and implementation
           - Software development
           - Unit and integration tests
-        Badges: ['Angular', 'PHP', 'JavaScript', 'Symfony', 'MySQL', 'MongoDB'] 
-  
+        Badges: ['Angular', 'PHP', 'JavaScript', 'Symfony', 'MySQL', 'MongoDB']
+
   - Employer: EffectiveSoft
     Place: Belarus, Minsk
     Positions:
@@ -102,7 +102,7 @@ Experience:
         Details:
           - Website development
         Badges: ['PHP', 'JavaScript', 'MySQL', 'ExtJS']
-  
+
   - Employer: USWebStyle
     Place: Belarus, Minsk
     Positions:

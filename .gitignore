@@ -1,1 +1,6 @@
 .DS_Store
+
+# Hugo build output and caches — the site is rebuilt from source by CI.
+/public/
+/resources/
+.hugo_build.lock
